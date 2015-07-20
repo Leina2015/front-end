@@ -1,0 +1,59 @@
+body{margin-top: 34px;
+	background-color: #3366ff;
+      }
+
+
+#container{margin: 0px auto;
+           width: 500px;
+           height: 500px;
+           position: relative;
+           border:solid;
+           background-image: url(../images/waters.jpg);
+       }
+#left{width: 150px;
+      height: 150px;
+      top:-50px;
+       left: -50px;
+       border:solid;
+       position: absolute;
+        overflow: auto;
+        background-image: url(../images/catfish.jpg);
+   }
+   
+#right{width: 150px;
+      height: 150px;
+      top:-50px;
+       right: -50px;
+       border:solid;
+       position: absolute;
+       overflow: auto;
+       background-image: url(../images/prawns.jpg);
+
+
+
+   }
+
+#bottomleft{width: 150px;
+      height: 150px;
+      bottom  :-50px;
+       left: -50px;
+       border:solid;
+       position: absolute;
+        overflow: auto;
+         overflow: auto;
+         background-image: url(../images/stafish.jpg);
+    }
+#bottomright{width: 150px;
+      height: 150px;
+      bottom:-50px;
+       right: -50px;
+       border:solid;
+       position: absolute;
+        overflow: auto;
+        background-image: url(../images/shark.jpg);
+
+   }      
+   h1{
+   	text-align: center;
+   	color: #000066
+   }

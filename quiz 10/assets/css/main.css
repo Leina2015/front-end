@@ -1,0 +1,30 @@
+
+#container{
+  width: 824px;
+  height: 212px;
+  margin: 50px auto;
+    border:1px #dddddd ;
+}
+table tr td{
+  
+  height: 40px;
+  
+}
+
+tr td{
+  border-top:1px #dddddd solid;
+  height: 39px;
+  
+;
+
+}
+tr:nth-child(odd)
+{
+  background-color: #ffffff;
+  border:1px solid #DDDDDD;
+}
+tr:nth-child(even)
+{
+  background-color: #f1f1f1;
+
+}

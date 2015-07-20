@@ -1,0 +1,30 @@
+#container{
+  width: 960px;
+  height: 856px;
+  background-color: #C1C1C1;
+  margin: 0px auto;
+  border:1px solid #C1C1C1;
+  margin-top: 30px;
+}
+#main{width: 800px;
+      height: 373px;
+      margin: 66px 81px 40px 81px;
+      background-color: #FFFFFF;
+
+}
+#youtube{width:425px;
+         height:311px;
+         margin: 19px ;
+         float: left;
+          }
+
+
+#maps{width: 442px;
+      height: 244px;
+      margin: 0px 31px 137px 77px;
+      float: left;
+
+}
+#head{
+  padding-top: 19px;
+}

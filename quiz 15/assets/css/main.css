@@ -1,0 +1,162 @@
+body{
+    background-color: black;
+}
+hr{
+    color: #dedede;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+#wildcat{
+    border: 30px solid black;
+    width: 804px;
+    height: 873px;
+    margin: 0px auto;
+    margin-top: 50px;
+    font-family: 'Roboto Slab', serif;
+    background-color: white;
+    color: black;
+}
+
+#one{
+    width: 804px;
+    height: 145px;
+    border-bottom: 2px solid #cf8b06;
+}
+
+i{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}
+a.book-icon{
+    border-radius: 4px;
+     margin-left: 6px;
+     background-color: #3b5a9b;
+     color: #ffffff;
+     text-align: center;
+}
+a.gram-icon{
+    border-radius: 4px;
+     margin-left: 6px;
+     background-color: #507da4;
+     color: #ffffff;
+     text-align: center;
+}
+a.rest-icon{
+    border-radius: 4px;
+     margin-left: 6px;
+     background-color: #cc2026;
+     color: #ffffff;
+    text-align: center;
+    width: 5px;
+        
+}
+a.ter-icon{
+    border-radius: 4px;
+     margin-left: 6px;
+     background-color: #29a9e0;
+     color: #ffffff;
+     text-align: center;
+}
+a.tube-icon{
+    border-radius: 4px;
+     margin-left: 6px;
+     background-color: #ff3430;
+    color: #ffffff;
+     text-align: center;
+    
+        
+}
+
+img{
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
+}
+h3{
+    float: left;
+    margin-left: 40px;
+    color: #d08704;
+    margin-top: 30px;
+}
+#four{
+    width: 535px;
+    height: 77px;
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+#six{
+    width: 535px;
+    height: 335px;
+    float: right;
+    margin-right: 30px;
+}
+#eight{
+     width: 535px;
+    height: 98px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 59px;
+    margin-bottom: 20px;
+}
+#a{
+     width: 260px;
+    height: 94px;
+    float: left;
+    
+}
+#b{
+     width: 260px;
+    height: 94px;
+    float: right;
+    
+}
+#ten{
+    width: 535px;
+    height: 98px;
+    float: right;
+    margin-right: 30px;
+}
+h1{
+    text-align: center;
+    padding-left:  50px;
+}
+h2{
+    text-align: center;
+}
+#name{
+float: left;
+
+}
+#two{
+    float: left;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+p{
+    float: right;
+}
+.a{
+    width: 200px;
+
+}
+.skillsbar1{
+    width: 90%;
+    height: 20px;
+    background-color: #c6c5c2;
+}
+.bar1{
+    width: 50%;height: 20px;
+    background-color: #ce8b08;
+}
+.skillsbar2{
+    width: 90%;
+    height: 20px;
+    background-color: #c6c5c2;
+}
+.bar2{
+    width: 70%;height: 20px;
+    background-color: #ce8b08;
+margin-bottom: 20px;
+}

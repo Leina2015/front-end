@@ -1,0 +1,127 @@
+body{
+ 
+  margin-top:40px;
+
+}
+ /* start:styling*/
+ h1 {
+      text-align:center;
+     
+ }
+ 
+h2{
+   text-align:center;
+  
+ }
+h3{
+ float:left;
+   color:#cd8b01;
+   display:inline;
+
+}
+
+
+#panel{
+      width:864px;
+      margin:50px;
+      padding:10px;
+    
+      margin: 0 auto;
+      background-color:#f3f3f3;
+}
+
+
+#about{
+    float:left;
+    margin-left:100px;
+    margin-top:25px;
+}
+ 
+ 
+ 
+hr{
+    color:#ce8b32;
+ }
+img{
+    float:left;
+    margin-top:2px;
+    height:140px;
+    width:140px;
+    border-radius:50%;
+}
+#front{margin-left:50px;
+float:left;}
+
+#one{margin-left: 200px;
+    margin-top:25px;
+   
+}
+#two{margin-left: 200px;
+    margin-top:25px;
+ 
+}
+#three{
+    margin-left: 200px;
+    margin-top:25px;
+}
+#four{
+     margin-left: 200px;
+     margin-top:25px;
+}
+#me{
+    margin-left: 200px;
+    margin-top:25px;
+  }
+        
+#five{
+    margin-left: 200px;
+    margin-top:25px;
+}
+#six{
+    margin-left: 200px;
+    margin-top:25px;
+}
+
+ul li{
+    text-decoration:none;
+    list-style-type:none;
+}
+.skills-bar{
+    width:90%;
+    height:20px;
+    background-color:#cccccc;
+}
+.html {
+            height: 20px;
+             width: 80%;
+             background-color: #cd8b01;
+}
+.css {
+            height: 20px;
+             width: 85%;
+             background-color: #cd8b01;
+}
+.java {
+            height: 20px;
+             width: 70%;
+             background-color: #cd8b01;
+}
+.linux {
+             height: 20px;
+             width: 30%;
+             background-color: #cd8b01;
+}
+.php {
+            height: 20px;
+             width: 20%;
+             background-color: #cd8b01;
+}
+
+
+
+
+
+
+
+
+/*end:styling*/

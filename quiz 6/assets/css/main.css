@@ -1,0 +1,105 @@
+/* start styling container*/
+#container{background-color: purple;
+	        margin: 0px auto;
+	        width: 700px;
+	        height: 800px;
+	        border-style: dotted;
+	        border-color: red;
+	        background-image: url(../images/fish.jpg);
+}
+/* end styling container*/
+
+/* start styling left*/
+#left{
+	width: 275px;
+	height:200px;
+	float :left ;
+	margin-top:50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+    background-color: cadetblue;
+    border-color: cyan;
+    border-style: double;
+    background-image:url(../images/dolphin.jpg);
+    color: white;
+
+}
+/* end styling left*/
+
+/* start styling right*/
+#right{
+	width: 275px;
+	height:200px;
+	float :right ;
+	margin-top:50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	background-color: blue;
+	border-color: cyan;
+	border-style: double;
+	background-image: url(../images/catfish.jpg);
+	color: white;
+}
+/* end styling right*/
+
+/* start styling center*/
+#centre{
+
+	width: 600px;
+	height: 200px;
+	margin-right: 50px;
+	margin-left: 50px;
+	background-color: blueviolet;
+	border-color: cyan;
+	border-style: double;
+	background-image: url(../images/prawns.jpg);
+	color: white;
+
+}
+/* end styling center*/
+
+
+/* start styling bottomleft*/
+#bottomleft{width: 275px;
+	height:200px;
+	float :left;
+	margin-top:50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	background-color: cornflowerblue;
+	border-color: cyan;
+    border-style: double;
+    background-image: url(../images/stafish.jpg);
+    color: white;
+
+}/* end styling bottomleft*/
+
+
+/* start styling bottomright*/
+#bottomright{
+
+	width: 275px;
+	height:200px;
+	float :right;
+	margin-top:50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	background-color: #000066;
+	border-color: cyan;
+    border-style: double;
+    background-image: url(../images/shark.jpg);
+    color: white;
+}
+/* end styling bottomright*/
+h1{
+	text-align: center;text-align: 
+}
+
+/* start styling body*/
+body{
+
+	
+	font-color:white;
+}
+/* end styling body*/
+
